@@ -8,3 +8,13 @@ C:\Users\leila\Desktop\Web Services\WindowsFormCalcul\obj\Debug\WindowsFormCalcu
 C:\Users\leila\Desktop\Web Services\WindowsFormCalcul\obj\Debug\WindowsFormCalcul.csproj.CoreCompileInputs.cache
 C:\Users\leila\Desktop\Web Services\WindowsFormCalcul\obj\Debug\WindowsFormCalcul.exe
 C:\Users\leila\Desktop\Web Services\WindowsFormCalcul\obj\Debug\WindowsFormCalcul.pdb
+C:\Users\leila\Desktop\Web Services\TP1\WebServices_TP1\WindowsFormCalcul\bin\Debug\WindowsFormCalcul.exe.config
+C:\Users\leila\Desktop\Web Services\TP1\WebServices_TP1\WindowsFormCalcul\bin\Debug\WindowsFormCalcul.exe
+C:\Users\leila\Desktop\Web Services\TP1\WebServices_TP1\WindowsFormCalcul\bin\Debug\WindowsFormCalcul.pdb
+C:\Users\leila\Desktop\Web Services\TP1\WebServices_TP1\WindowsFormCalcul\obj\Debug\WindowsFormCalcul.csprojAssemblyReference.cache
+C:\Users\leila\Desktop\Web Services\TP1\WebServices_TP1\WindowsFormCalcul\obj\Debug\WindowsFormCalcul.FormCal.resources
+C:\Users\leila\Desktop\Web Services\TP1\WebServices_TP1\WindowsFormCalcul\obj\Debug\WindowsFormCalcul.Properties.Resources.resources
+C:\Users\leila\Desktop\Web Services\TP1\WebServices_TP1\WindowsFormCalcul\obj\Debug\WindowsFormCalcul.csproj.GenerateResource.cache
+C:\Users\leila\Desktop\Web Services\TP1\WebServices_TP1\WindowsFormCalcul\obj\Debug\WindowsFormCalcul.csproj.CoreCompileInputs.cache
+C:\Users\leila\Desktop\Web Services\TP1\WebServices_TP1\WindowsFormCalcul\obj\Debug\WindowsFormCalcul.exe
+C:\Users\leila\Desktop\Web Services\TP1\WebServices_TP1\WindowsFormCalcul\obj\Debug\WindowsFormCalcul.pdb
